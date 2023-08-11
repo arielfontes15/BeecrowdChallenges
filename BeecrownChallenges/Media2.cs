@@ -23,7 +23,7 @@ namespace BeecrowdChallenges
             7.0
         EXEMPLO DE SAIDA
             MEDIA = 6.3
-     */
+    */
     public class Media2
     {
         public double NotaA { get; set; }
