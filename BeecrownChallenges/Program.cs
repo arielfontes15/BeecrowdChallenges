@@ -1,6 +1,4 @@
 ﻿using BeecrowdChallenges;
 
-using System.Globalization;
-
-var diferenca = new Diferenca();
-diferenca.CalcDiferenca();
+var media2 = new Media2();
+media2.CalcMedia();
