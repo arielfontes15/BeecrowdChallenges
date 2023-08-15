@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BeecrowdChallenges
+namespace BeecrowdChallenges.Beginner
 {
     /*DESCRICAO
         Leia 3 valores, no caso, variáveis A, B e C, que são as três notas de um aluno.
@@ -52,7 +52,7 @@ namespace BeecrowdChallenges
             PesoC = 5;
 
             // Calcula a média ponderada
-            Media = ((NotaA * PesoA) + (NotaB * PesoB) + (NotaC * PesoC)) / (PesoA + PesoB + PesoC);
+            Media = (NotaA * PesoA + NotaB * PesoB + NotaC * PesoC) / (PesoA + PesoB + PesoC);
 
             // Imprime o resultado com 1 dígito após o ponto decimal
             Console.WriteLine("MEDIA = " + Media.ToString("F1"));

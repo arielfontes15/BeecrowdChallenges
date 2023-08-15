@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace BeecrowdChallenges
+namespace BeecrowdChallenges.Beginner
 {
     /*DESCRICAO
         Leia quatro valores inteiros A, B, C e D. A seguir,
@@ -32,7 +32,7 @@ namespace BeecrowdChallenges
             C = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             D = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            int diferenca = ((A * B) - (C * D));
+            int diferenca = A * B - C * D;
             Console.WriteLine($"DIFERENCA = {diferenca}");
         }
     }

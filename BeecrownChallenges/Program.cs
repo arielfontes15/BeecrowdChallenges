@@ -1,4 +1,4 @@
-﻿using BeecrowdChallenges;
+﻿using BeecrowdChallenges.Beginner;
 
-var media2 = new Media2();
-media2.CalcMedia();
+var salario = new Salario();
+salario.CalcSalario();

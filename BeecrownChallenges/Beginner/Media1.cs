@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BeecrowdChallenges
+namespace BeecrowdChallenges.Beginner
 {
     /*DESCRICAO
      * Leia 2 valores de ponto flutuante de dupla precisão A e B,
