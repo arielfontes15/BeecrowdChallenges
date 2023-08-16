@@ -1,4 +1,5 @@
 ﻿using BeecrowdChallenges.Beginner;
 
-var salarioBonus = new SalarioBonus();
-salarioBonus.CalcSalario();
+var esfera = new Esfera();
+esfera.CalcEsfera();
+
