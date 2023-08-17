@@ -1,5 +1,5 @@
 ﻿using BeecrowdChallenges.Beginner;
 
-var esfera = new Esfera();
-esfera.CalcEsfera();
+var area = new Area();
+area.CalcArea();
 
