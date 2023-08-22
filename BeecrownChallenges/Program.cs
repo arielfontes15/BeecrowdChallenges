@@ -1,4 +1,4 @@
 ﻿using BeecrowdChallenges.Beginner;
 
-var c = new Consumo();
-c.CalcConsumo();
+//var d = new DistanciaEntreDoisPontos();
+//d.CalcDistancia();
