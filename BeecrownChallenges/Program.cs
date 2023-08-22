@@ -1,5 +1,4 @@
 ﻿using BeecrowdChallenges.Beginner;
 
-var esfera = new Esfera();
-esfera.CalcEsfera();
-
+var c = new Consumo();
+c.CalcConsumo();
