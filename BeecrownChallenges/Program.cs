@@ -1,4 +1,5 @@
-﻿using BeecrowdChallenges.Beginner;
+﻿using System.Globalization;
+using BeecrowdChallenges.Beginner;
 
-var d = new ConversaoDeTempo();
-d.CalcTempo();
+var nota = new NotasEMoedas();
+nota.CalcNotasEMoedas();
