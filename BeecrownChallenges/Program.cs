@@ -1,5 +1,5 @@
 ﻿using System.Globalization;
-using BeecrowdChallenges.Beginner;
+using BeecrownChallenges.Beginner;
 
-var nota = new NotasEMoedas();
-nota.CalcNotasEMoedas();
+var testeSelecao = new TesteSelecao1();
+testeSelecao.CalcTesteSelecao();
